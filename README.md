@@ -58,3 +58,5 @@ socks5;127.0.0.1;1080;user;pass
 Приятного использования!
 
 ## Owner - @yeet17 - telegram
+## Owner - @yeet17 - telegram
+## Owner - @yeet17 - telegram
